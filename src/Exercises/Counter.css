@@ -1,0 +1,26 @@
+div {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+button {
+  padding: 100px;
+  border-radius: 35px;
+  font-size: 5rem;
+  opacity: 0.5;
+}
+
+button:hover {
+  padding: 100px;
+  border-radius: 35px;
+  font-size: 5rem;
+  box-shadow: 1px 1px 30px 0.1px wheat;
+  opacity: 1;
+}
+
+p {
+  color: white;
+  font-size: 5rem;
+}
